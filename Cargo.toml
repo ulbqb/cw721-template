@@ -1,11 +1,8 @@
 [package]
-name          = "cw721-base"
+name          = "{{project-name}}"
 description   = "Basic implementation cw721 NFTs"
-authors       = [
-  "Ethan Frey <ethanfrey@users.noreply.github.com>",
-  "Orkun Külçe <orkun@deuslabs.fi>",
-]
-version       = "0.18.0"
+authors       = ["{{authors}}"]
+version       = "0.1.0"
 edition       = "2021"
 license       = "Apache-2.0"
 repository    = "https://github.com/CosmWasm/cw-nfts"
